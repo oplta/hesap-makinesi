@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1733701771 source:c:\users\oplta\documents\github\hesap-makinesi\hesap-makinesi\main.c
+	<stdio.h>
+	<stdlib.h>
+
